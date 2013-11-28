@@ -1,0 +1,8 @@
+{
+    "name": "iit-ots-software",
+    "version": "0.1.0",
+    "dependencies": {
+        "firebase": "0.6.17",
+        "cheerio": "0.12.4"
+    }
+}
