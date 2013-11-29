@@ -6,26 +6,33 @@ var request = require('request');
 function gotHTML(err, resp, html) {
   if (err) return console.error(err);
   var parsedHTML = $.load(html);
-  var headings = [];
-  var software = [];
-  parsedHTML('tr.headrow').first().children().each(function () {
-    headings.push($(this).text().trim().replace("\r",""));
+  var locations = [];
+  var softwarelist = {};
+  parsedHTML('tr.headrow').first().children().each(function (i) {
+    if (i>1) locations.push($(this).text().trim().replace("\r",""));
   });
-  console.log("-----------------------------");
-  parsedHTML('tr:not(.headrow)').each(function() {
-    $(this).children().each(function (i) {
-      console.log($(this).text().trim().replace("\r",""));
-      if (i==0) software.push();
-      else if (i==1) software.push();
-      else software.push();
+  parsedHTML('tr:not(.headrow)').each(function(i) {
+    var item = {
+      "software": "",
+      "version": "",
+      "labs": {}
+    };
+    $(this).children().each(function (j) {
+      var text = $(this).text().trim().replace("\r","");
+      if (j==0) item.software = text;
+      else if (j==1) item.version = text;
+      else {
+        item.labs[locations[j-2]] = text=="X" ? true : false;
+      }
     });
+    softwarelist[i] = item;
   });
+
+  //now we load our database and input
+  var Firebase = require('firebase');
+  var db = new Firebase('https://iit-ots-software.firebaseio.com/');
+  db.set(softwarelist);
 }
 
-var domain = 'http://www.iit.edu/ots/lab_software_master_new.php';
-request(domain, gotHTML);
-
-//now we load our database and input
-//var Firebase = require('firebase');
-//var db = new Firebase('https://iit-ots-software.firebaseio.com/');
-//db.set(object);
+request('http://www.iit.edu/ots/lab_software_master_new.php', gotHTML);
+process.exit();
