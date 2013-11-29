@@ -9,7 +9,7 @@ function gotHTML(err, resp, html) {
   if (err) return console.error(err);
   var parsedHTML = $.load(html);
   var locations = [];
-  var software = {};
+  var software = [];
   parsedHTML('tr.headrow').first().children().each(function (i) {
     if (i>1) locations.push($(this).text().trim().replace("\r",""));
   });
@@ -27,7 +27,7 @@ function gotHTML(err, resp, html) {
         item.labs[locations[j-2]] = text=="X" ? true : false;
       }
     });
-    software[i] = item;
+    software.push(item);
   });
   write(software,"software.json","iit-ots-software");
 }
@@ -42,3 +42,5 @@ function write(jsonobj, filename, firebase) {
 }
 
 request('http://www.iit.edu/ots/lab_software_master_new.php', gotHTML);
+
+process.exit();

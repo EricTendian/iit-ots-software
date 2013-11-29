@@ -20,14 +20,16 @@
             <h2>Search for software</h2>
             <form role="form">
               <div class="form-group">
-                <label for="softwarename">Software title:</label>
-                <input type="text" class="form-control" id="softwarename" placeholder="Enter [part of] the software's name">
+                <label for="softwarename">Software title:</label><br />
+                <input type="text" class="form-control" id="softwarename" placeholder="Enter [part of] the software's name" autocomplete="off" spellcheck="false">
               </div>
               <script type="text/javascript">
-              $('#softwarename').typeahead({
-                name: 'software',
-                prefetch: 'software.json',
-                limit: 10
+              $(document).ready(function() {
+                $('#softwarename').typeahead({
+                  name: 'software',
+                  prefetch: 'software.json',
+                  limit: 10
+                });
               });
               </script>
             </form>
