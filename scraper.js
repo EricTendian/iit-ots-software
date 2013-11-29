@@ -3,6 +3,7 @@
 var $ = require('cheerio');
 var request = require('request');
 var fs = require('fs');
+var Firebase = require('firebase');
 
 function gotHTML(err, resp, html) {
   if (err) return console.error(err);
@@ -28,19 +29,16 @@ function gotHTML(err, resp, html) {
     });
     software[i] = item;
   });
-  writeFile(software,"software.json");
+  write(software,"software.json","iit-ots-software");
 }
 
-function writeFile(jsonobj, filename) {
+function write(jsonobj, filename, firebase) {
   fs.writeFile(filename, JSON.stringify(jsonobj, null, 4), function(err) {
     if (err) console.log(err);
-    else console.log("The file was saved!");
   });
+  var db = new Firebase('https://'+firebase+'.firebaseio.com/');
+  db.set(jsonobj);
+  console.log("Written successfully.");
 }
 
 request('http://www.iit.edu/ots/lab_software_master_new.php', gotHTML);
-
-//now we save the JSON to our database
-//var Firebase = require('firebase');
-//var db = new Firebase('https://iit-ots-software.firebaseio.com/');
-//db.set(softwarelist);

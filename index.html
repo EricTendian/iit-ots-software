@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html>
+  
+  <head>
+    <title>Search for Software on OTS Labs | IIT.io</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js"></script>
+    <script type="text/javascript" src="https://cdn.firebase.com/v0/firebase.js"></script>
+  </head>
+  
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="row">
+            <h2>Search for software</h2>
+            <form role="form">
+              <div class="form-group">
+                <label for="softwarename">Software title:</label>
+                <input type="text" class="form-control" id="softwarename" placeholder="Enter [part of] the software's name">
+              </div>
+              <script type="text/javascript">
+              $('#softwarename').typeahead({
+                name: 'software',
+                prefetch: 'software.json',
+                limit: 10
+              });
+              </script>
+            </form>
+          </div>
+          <div class="row">
+            <!-- a map goes here -->
+          </div>
+        </div>
+        <div class="col-md-6">
+          <!-- results go here -->        
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>

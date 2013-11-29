@@ -1,8 +1,9 @@
 {
-    "name": "iit-ots-software",
-    "version": "1.0.0",
-    "dependencies": {
-        "cheerio": "0.12.4",
-        "request": "2.27.0"
-    }
+  "name": "iit-ots-software",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "0.6.17",
+    "cheerio": "0.12.4",
+    "request": "2.27.0"
+  }
 }
