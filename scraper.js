@@ -42,5 +42,3 @@ function write(jsonobj, filename, firebase) {
 }
 
 request('http://erictendian.github.io/iit-ots-software/software-list.html', gotHTML);
-
-process.exit();

@@ -1,0 +1,2303 @@
+[
+    {
+        "software": "7-Zip",
+        "version": "9.38 beta (64-bit)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Abaqus",
+        "version": "6.14-2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Adafruit IDE",
+        "version": "1.6.4",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Adobe Acrobat Professional",
+        "version": "9.5.5",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Adobe AIR",
+        "version": "20.0.0.204",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Adobe Creative Suite",
+        "version": "CS5",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Adobe Flash Player",
+        "version": "20.0.0.228",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Adobe Photoshop Lightroom",
+        "version": "5.6",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Adobe Premiere Elements",
+        "version": "9.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Adobe Reader",
+        "version": "11.0.12",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Adobe Shockwave Player",
+        "version": "12.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "AGI32",
+        "version": "16.3.13",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Altair Hyperworks",
+        "version": "13",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Android SDK",
+        "version": "24.3.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Android Studio",
+        "version": "1.2.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Apache Ant",
+        "version": "1.9.4",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "ArcGIS Desktop",
+        "version": "10.3.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "ArcGIS Explorer Desktop",
+        "version": "2.0.0.2505",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Arduino",
+        "version": "1.6.4",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Arduino IDE for Intel Galileo",
+        "version": "1.5.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD Architecture",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD Civil 3D",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD Electrical",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD Map 3D",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD Mechanical",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD MEP",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AutoCAD Raster Design",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Autodesk 3ds Max Design",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Autodesk Inventor Professional",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Autodesk Revit",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Autodesk Robot Structural Analysis Professional",
+        "version": "2016",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "AWS Visio stencils",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "BEopt",
+        "version": "2.5.0.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "bioPDF",
+        "version": "10.11.0.2338",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Blackboard Collaborate",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "BLCC",
+        "version": "5.3-13",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Blender",
+        "version": "2.74",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Boost C++ Libraries",
+        "version": "1.58.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Citrix Receiver",
+        "version": "4.2.100.14",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Climate Consultant",
+        "version": "5.5",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "CmapTools",
+        "version": "6.01",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "COMcheck",
+        "version": "3.9.2.5",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Composer PHP",
+        "version": "1.0-dev",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Contam",
+        "version": "3.1.0.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Core FTP Pro",
+        "version": "2.2 (build 1849)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Cortona 3D Viewer",
+        "version": "7.0 (release 191)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Cygwin (Xemacs, vim)",
+        "version": "2.2.0(0.289/5/3)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "DIALuxevo3",
+        "version": "5.5.0.24451",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "DNR GPS",
+        "version": "6.1.0.6",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Droid @ Screen",
+        "version": "1.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Eagle PCB",
+        "version": "7.3.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Eclipse",
+        "version": "4.4.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Ecotect Analysis",
+        "version": "2011",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "ElumTools 2015 Release 2",
+        "version": "2016.2.0.7",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "EnergyPlus",
+        "version": "8.3.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Engineering Equation Solver",
+        "version": "9.902",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "eQUEST",
+        "version": "3.64 build 7130",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Excel add-in Documentation Tool",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Excel add-in SolverTable",
+        "version": "2010",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Formlist",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Fritzing",
+        "version": "0.9.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Google Atom",
+        "version": "1.0.5",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Google Chrome",
+        "version": "43.0.2357.124 m (64-bit)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Google Earth",
+        "version": "7.1.5.1557",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Greenfoot",
+        "version": "2.4.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "GRETL",
+        "version": "1.10.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Haskell Platform",
+        "version": "2014.2.0.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "IBM SPSS Advanced Statistics",
+        "version": "23.0.0.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "IBM SPSS Modeler Premium Desktop",
+        "version": "17.0.0.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "IIT Marketing & Communication Standard Fonts\n                    (Futura, Century Schoolbook)",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "IIT Remote Printing Package",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Internet Explorer",
+        "version": "11.0.9600.17959",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "InventorCAM",
+        "version": "2015 SP2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "IrfanView",
+        "version": "4.38",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "iTunes",
+        "version": "12.2.1.16",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "J2EE",
+        "version": "Java EE 7 SDK Update 1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "JacORB",
+        "version": "3.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Java SE Development Kit",
+        "version": "1.8.0.45",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "JMAG",
+        "version": "14.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "JMP Pro",
+        "version": "12.01",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "LabStats",
+        "version": "5.2.50102.168",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "LabVIEW",
+        "version": "2014 SP1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Latex (MikTex + Winshell)",
+        "version": "2.9.5105/3.3.2.6",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Lingo",
+        "version": "15",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "LockDown Browser (Lab Edition)",
+        "version": "2.00.03",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Logic",
+        "version": "1.1.34",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Ltspice",
+        "version": "4.23b",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Maple",
+        "version": "15.01",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Mathcad Prime",
+        "version": "3.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Matlab",
+        "version": "R2015a",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Matlab Chebfun Toolbox",
+        "version": "5.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Matlab CVX Toolbox",
+        "version": "2.1 Build 1107",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Matlab SPM Toolbox",
+        "version": "12",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "McAfee VirusScan Enterprise",
+        "version": "8.8.0 p6",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Microsoft Expression Studio Ultimate",
+        "version": "4.0 SP2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Microsoft Office Professional Edition",
+        "version": "2013 SP1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Microsoft Project Professional",
+        "version": "2013 SP1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Microsoft Visio Professional",
+        "version": "2013 SP1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Microsoft Visual Studio Ultimate",
+        "version": "2013",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Microsoft Windows 7 Professional",
+        "version": "SP1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Microsoft Windows SDK",
+        "version": "8.1.51636",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "MIT Scheme",
+        "version": "9.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "MonoDevelop",
+        "version": "5.0.0.878.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Mozilla FireFox",
+        "version": "40",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "MPlus",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "MySQL Workbench",
+        "version": "6.3.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "NetBeans with the PHP plugin",
+        "version": "8.0.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "NodeJS",
+        "version": "0.12.4",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "NodeXL",
+        "version": "2014",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "NodeXL Plugin - Social Network Importer",
+        "version": "1.9.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Notepad++",
+        "version": "6.7.8.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Palisade Decision Tools Suite Industrial",
+        "version": "6.3.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Particle-cli (Windows Driver)",
+        "version": "1.5.11",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "pgAdmin3",
+        "version": "1.20.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Photometric Toolbox",
+        "version": "1.9.0 (revision 2)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "PHP",
+        "version": "5.6.9",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "PostgreSQL ODBC driver",
+        "version": "9.03.0400",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Processing",
+        "version": "2.2.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Putty",
+        "version": "0.63",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "PyCharm Educational Edition",
+        "version": "1.01",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Python",
+        "version": "3.4.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Python Calendar/date utility",
+        "version": "2.4.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "QGIS",
+        "version": "2.8.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "QtSpim",
+        "version": "9.1.12",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "QuickTime",
+        "version": "7.7.7",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "R",
+        "version": "3.2.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Racket",
+        "version": "6.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Real Times",
+        "version": "18.0.2.59",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Rhinoceros",
+        "version": "5.0 SR11",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Cheetah",
+        "version": "0.0.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Elefront",
+        "version": "0.3.0.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - geco",
+        "version": "1.0.44.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - ghPython",
+        "version": "0.6.0.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Grasshopper",
+        "version": "0.9.0075",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Honeybee",
+        "version": "0.0.58",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - HoopSnake",
+        "version": "0.6.7",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Kangaroo Physics",
+        "version": "2.02",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Karamba",
+        "version": "1.1.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Ladybug",
+        "version": "0.0.60",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Lunchbox",
+        "version": "2014.05.05",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - MeshEdit",
+        "version": "1.0.0.9",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - RhinoCAM",
+        "version": "5.0.0.43",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Slingshot",
+        "version": "0.8",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - TT Toolbox",
+        "version": "1.6",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Rhinoceros Plugin - Weaverbird",
+        "version": "0.9.0.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "RStudio",
+        "version": "0.99.467",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "SAP2000",
+        "version": "15.2.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "SAS Education Analytical Suite",
+        "version": "9.4",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Second Life",
+        "version": "3.7.29",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Sefaira for Revit",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Simtools",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "SketchUp Make",
+        "version": "16.0.19912",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "SourceTree Git Client",
+        "version": "1.6.18.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "SQL Developer",
+        "version": "4.1.0.19",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Steel Bank Common Lisp",
+        "version": "1.2.12",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Synchro Professional",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "SynchronEyes",
+        "version": "7.0.44.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Sysinternals Suite",
+        "version": "0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "System Advisor Model",
+        "version": "2015.6.30 (revision 4)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Tera Term",
+        "version": "4.87",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "THERM",
+        "version": "7.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "TightVNC",
+        "version": "2.7.10",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "TortoiseSVN",
+        "version": "1.8.7.25475",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Trace 700",
+        "version": "6.3.2.2.S",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Trader Workstation",
+        "version": "4.0 build 9493",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Versant",
+        "version": "3.1.7 build 8",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Vico Office",
+        "version": "R5.2",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "What's Best",
+        "version": "13",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": false,
+            "Galvin Laptops": false,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "WINDOW",
+        "version": "7.3",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Windows Live Essentials - Movie Maker",
+        "version": "2012( Build 16.4.3528.0331)",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "Windows Management Framework",
+        "version": "4",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Wolfram Mathematica",
+        "version": "10.1.0",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    },
+    {
+        "software": "Wufi",
+        "version": "5.3.4.1363",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "X-CTU",
+        "version": "5.2.8.6",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "XAMPP For Windows",
+        "version": "3.2.1",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": false,
+            "Alumni Memorial 218": false,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": false,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": false,
+            "DTC (491)": false
+        }
+    },
+    {
+        "software": "ZoomText",
+        "version": "10.10.11.306",
+        "labs": {
+            "Tech North 110, Crown Hall 001, Seigel Hall 236": true,
+            "Alumni Memorial 218": true,
+            "Stuart Building (112E, 112F, 112X, 112J) Seigel Hall 237, Hermann Hall 112, Rice Campus 210": true,
+            "Galvin Laptops": true,
+            "Main Campus KIOSK, Classrooms": true,
+            "DTC (401,405,480,491, Classrooms), IIT Tower (145C5,14C7)": true,
+            "DTC (491)": true
+        }
+    }
+]
