@@ -41,6 +41,6 @@ function write(jsonobj, filename, firebase) {
   console.log("Written successfully.");
 }
 
-request('http://www.iit.edu/ots/lab_software_master_new.php', gotHTML);
+request('http://erictendian.github.io/iit-ots-software/software-list.html', gotHTML);
 
 process.exit();
